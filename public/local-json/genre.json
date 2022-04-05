@@ -1,0 +1,169 @@
+[
+    {
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc02d416c309a68b04dc94576",
+        "id": 31,
+        "genre": "Metal",
+        "tracks": [
+            {
+                "name": "Alone",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782126454690938890/Alan_Walker_-_AloneMP3_128K.mp3",
+                "duration": 98277,
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273153261ff7373a171c24ab9f9"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "genre": "Rock",
+        "url": "https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828",
+        "tracks": [
+            {
+                "id": 12281,
+                "name": "Look At Her Now",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782128984070029322/Selena_Gomez_-_Look_At_Her_Now_Official_Music_VidMP3_128K.mp3",
+                "duration": 455357,
+                "image_url": "https://i.scdn.co/image/ab67616d0000b2732abcc266597eb46f897a8666"
+            },
+            {
+                "id": 12287,
+                "name": "Freal Luv",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129488972480532/Far_East_Movement_x_Marshmello_-_Freal_Luv_ft._Chanyeol__Tinashe_Official_Video.m4a",
+                "duration": 693727,
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273bc1684a7d68f275dd6db9939"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "genre": "Pop",
+        "url": "https://i.scdn.co/image/ab67616d0000b273c14d955611b72addabd9163c",
+        "tracks": [
+            {
+                "id": 12282,
+                "name": "I m Fakin",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129209711001610/Sabrina_Carpenter_-_I_m_Fakin_Audio_OnlyMP3_128K.mp3",
+                "duration": 199377,
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273c2d8417d46ae0c823dc6463f"
+            },
+            {
+                "id": 12280,
+                "name": "\u00c3\u2030chame La Culpa",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129660301279252/Luis_Fonsi__Demi_Lovato_-_Echame_La_Culpa_Video_OMP3_128K.mp3",
+                "duration": 982727,
+                "image_url": "https://i.scdn.co/image/ab67616d0000b2736be844b5d2fc0bf743fd7647"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "genre": "Dance",
+        "url": "https://i.scdn.co/image/ab67616d0000b273100fb4649eae80922bf1acbf",
+        "tracks": [
+            {
+                "id": 12283,
+                "name": "Sing me to sleep",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129242318176266/Alan_Walker_-_Sing_Me_To_SleepMP3_128K.mp3",
+                "duration": 666666,
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "genre": "K-Pop",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb6e50f29c671af8aff68b321d",
+        "tracks": [
+            {
+                "id": 12284,
+                "name": "End of time",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129275322761236/K-391__Alan_Walker___Ahrix_-_End_of_Time_OfficialMP3_128K.mp3",
+                "duration": 98277,
+                "image_url": "https://i.scdn.co/image/ab67616d0000b27349b9fbf2345c02ca2387a357"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "genre": "Electronic",
+        "url": "https://i.scdn.co/image/ab6761610000e5eba91f4bf05646262baed9ca2d",
+        "tracks": [
+            {
+                "id": 12285,
+                "name": "Faded",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129443250503720/Alan_Walker_-_FadedMP3_128K.mp3",
+                "duration": 102777,
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "genre": "Hip-Hop",
+        "url": "https://i.scdn.co/image/ab67616d0000b27362a57823eced1cb4fd93b2c1",
+        "tracks": [
+            {
+                "id": 12286,
+                "name": "The Spectre",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129468789358593/Alan_Walker_-_The_SpectreMP3_128K.mp3",
+                "duration": 123277,
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273a6a151ed88a170ae3a81eff5"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "genre": "Indie",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebf2855e25f1d9c8a20bcc85ae",
+        "tracks": [
+            {
+                "id": 12288,
+                "name": "Let Me Love You",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129492180860928/DJ_Snake_-_Let_Me_Love_You_ft._Justin_Bieber_OffiMP3_128K.mp3",
+                "duration": 292662,
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273212d776c31027c511f0ee3bc"
+            },
+            {
+                "id": 12289,
+                "name": "Here With Me Feat",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129612690948106/Marshmello_-_Here_With_Me_Feat._CHVRCHES_OfficialMP3_160K.mp3",
+                "duration": 77777,
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273b91a6f7b2cda3f257e9ad571"
+            },
+            {
+                "id": 12279,
+                "name": "Slow Down",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129669578424330/Selena_Gomez_-_Slow_Down_OfficialMP3_128K.mp3",
+                "duration": 287111,
+                "image_url": "https://i.scdn.co/image/ab6761610000e5eba5205abffd84341e5bace828"
+            }
+        ]
+    },
+    {
+        "url": "https://i.scdn.co/image/ab6761610000e5eb37db62ee361f796bef5b49a6",
+        "id": 44,
+        "genre": "Rap",
+        "tracks": [
+            {
+                "id": 12278,
+                "name": "On my Way",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129671055605760/Alan_Walker__Sabrina_Carpenter___Farruko_-_On_MyMP3_128K.mp3",
+                "duration": 284877,
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273d2aaf635815c265aa1ecdecc"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "genre": "Latin",
+        "url": "https://i.scdn.co/image/ab67616d0000b273a111c87c210cc9bff93948bd",
+        "tracks": [
+            {
+                "id": 12276,
+                "name": "Summer",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/782129702650773544/Marshmello_-_Summer_Official_Music_Video_with_LeMP3_160K.mp3",
+                "duration": 47877,
+                "image_url": "https://i.scdn.co/image/ab6761610000e5eba91af711541f8807ed7f0676"
+            }
+        ]
+    }
+]

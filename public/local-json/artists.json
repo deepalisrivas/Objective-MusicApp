@@ -1,0 +1,254 @@
+[
+    {
+        "author": "Andromedik",
+        "url": "https://i.scdn.co/image/ab67616d0000b2737b8d8ca1a8e14506c8f35233",
+        "id": 2,
+        "tracks": [
+            {
+                "id": 125,
+                "duration": 27200,
+                "name": "Let Me In",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741536591806484/Alan_Walker_-_Fade_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab67616d0000b2737b8d8ca1a8e14506c8f35233"
+            },
+            {
+                "id": 146,
+                "duration": 66600,
+                "name": "Fisrt To Go",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741549177995264/Cartoon_-_On___On_feat._Daniel_Levi_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab6761610000e5ebc02d416c309a68b04dc94576"
+            },
+            {
+                "id": 147,
+                "duration": 62700,
+                "name": "I See You",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741580619284540/Clarx___Harddope_-_Castle_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a"
+            },
+            {
+                "id": 148,
+                "duration": 47200,
+                "name": "She-NCS Release",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741669626085426/Different_Heaven_-_Nekozilla_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab6761610000e5eb37db62ee361f796bef5b49a6"
+            }
+        ]
+    },
+    {
+        "author": "Ascence",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb6e50f29c671af8aff68b321d",
+        "id": 3,
+        "tracks": [
+            {
+                "id": 126,
+                "duration": 74200,
+                "name": "About you-NCS Release",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741536591806484/Alan_Walker_-_Fade_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab67616d0000b27335ca35166aba974dd2dd29a2"
+            }
+        ]
+    },
+    {
+        "author": "Cartoon",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb65d82d90b55b4dd3cbb2efd2",
+        "id": 4,
+        "tracks": [
+            {
+                "id": 127,
+                "duration": 29200,
+                "name": "On & On (feat. Daniel Levi) [NCS Release]",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741549177995264/Cartoon_-_On___On_feat._Daniel_Levi_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273d2aaf635815c265aa1ecdecc"
+            }
+        ]
+    },
+    {
+        "author": "Clarx & Harddope",
+        "url": "https://i.scdn.co/image/ab67616d0000b273ba5db46f4b838ef6027e6f96",
+        "id": 5,
+        "tracks": [
+            {
+                "id": 128,
+                "duration": 67200,
+                "name": "Castle [NCS Release]",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741580619284540/Clarx___Harddope_-_Castle_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab6761610000e5eb015af0621865cd5cd5046c2c"
+            }
+        ]
+    },
+    {
+        "author": "DEAF KEV",
+        "url": "https://i.scdn.co/image/ab67616d0000b27362a57823eced1cb4fd93b2c1",
+        "id": 6,
+        "tracks": [
+            {
+                "id": 129,
+                "duration": 37300,
+                "name": "Invincible",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741667210035220/DEAF_KEV_-_Invincible_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab6761610000e5eb33b1cf2b7b544840b727865b"
+            }
+        ]
+    },
+    {
+        "author": "Disfigure",
+        "id": 7,
+        "url": "https://i.scdn.co/image/ab6761610000e5eb2aa26cfdf3b785f171a4795c",
+        "tracks": [
+            {
+                "id": 130,
+                "duration": 77300,
+                "name": "Blank",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741669588205598/Disfigure_-_Blank_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab67616d0000b27352b2a3824413eefe9e33817a"
+            }
+        ]
+    },
+    {
+        "url": "https://i.scdn.co/image/ab67616d0000b27309065005b0fbfc4b320d05de",
+        "author": "Different Heaven",
+        "id": 8,
+        "tracks": [
+            {
+                "id": 131,
+                "duration": 35200,
+                "name": "Nekozilla",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741669626085426/Different_Heaven_-_Nekozilla_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab6761610000e5eb2af8bbb74cb106ac91d31c9a"
+            }
+        ]
+    },
+    {
+        "author": "Diviners",
+        "url": "https://i.scdn.co/image/ab6761610000e5eb2d530c07b6c9f629e3327175",
+        "id": 9,
+        "tracks": [
+            {
+                "id": 132,
+                "duration": 83200,
+                "name": "Savannah (feat. Philly K)",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741669626085426/Different_Heaven_-_Nekozilla_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273b536cfb98c74558db48f8a46"
+            }
+        ]
+    },
+    {
+        "author": "Itro & Tobu",
+        "url": "https://i.scdn.co/image/ab67616d0000b273d6fd719531afda5f9cc0e248",
+        "id": 10,
+        "tracks": [
+            {
+                "id": 133,
+                "duration": 27200,
+                "name": "Cloud 9",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741836018974740/Itro___Tobu_-_Cloud_9_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab6761610000e5eb90533dd45388e25202c8de48"
+            }
+        ]
+    },
+    {
+        "author": "Elektronomia",
+        "url": "https://i.scdn.co/image/ab67616d0000b27394ae8395433c0c7521ac25ba",
+        "id": 11,
+        "tracks": [
+            {
+                "id": 134,
+                "duration": 27350,
+                "name": "Sky High [NCS Release]",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741836152668201/Elektronomia_-_Sky_High_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab6761610000e5ebbd83cf91e7780f4b0a4f0687"
+            }
+        ]
+    },
+    {
+        "author": "Julius Dreisig",
+        "url": "https://i.scdn.co/image/ab67616d0000b273100fb4649eae80922bf1acbf",
+        "id": 12,
+        "tracks": [
+            {
+                "id": 135,
+                "duration": 27200,
+                "name": "Where'd You Go (feat. Luna Lark) [NCS Release]",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741837642170382/Julius_Dreisig_-_Where_d_You_Go_feat._Luna_LarkMP3_160K.mp",
+                "image_url": "https://i.scdn.co/image/ab6761610000e5eb942bc92abc325c9352527759"
+            }
+        ]
+    },
+    {
+        "author": "Jarico",
+        "url": "https://i.scdn.co/image/ab67616d0000b273058c78826c35cbc3d03516c1",
+        "id": 13,
+        "tracks": [
+            {
+                "id": 136,
+                "duration": 35200,
+                "name": "Island [NCS BEST OF]",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741836840665158/Jarico_-_Island_NCS_BEST_OFMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab67616d0000b27371c82efdc4e41e6d3d4a3544"
+            }
+        ]
+    },
+    {
+        "author": "Janji",
+        "url": "https://i.scdn.co/image/ab6761610000e5eba91f4bf05646262baed9ca2d",
+        "id": 14,
+        "tracks": [
+            {
+                "id": 137,
+                "duration": 73200,
+                "name": "Landscape (Vlog No Copyright Music)",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741839517024256/Jarico_-_Landscape_NCS_BEST_OFMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab67616d0000b27328007758bd0a5ffb1a07abeb"
+            },
+            {
+                "id": 947,
+                "duration": 972225,
+                "name": "Heroes Tonight (feat. Johnning) [NCS BEST OF]",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741837385793556/Janji_-_Heroes_Tonight_feat._Johnning_NCS_ReleaMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab6761610000e5eba91f4bf05646262baed9ca2d"
+            }
+        ]
+    },
+    {
+        "id": 0,
+        "author": "Alan Walker",
+        "url": "https://i.scdn.co/image/ab6761610000e5ebc02d416c309a68b04dc94576",
+        "tracks": [
+            {
+                "id": 123,
+                "duration": 27350,
+                "name": "Sing me to sleep",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741533789224960/Alan_Walker_-_Sing_Me_To_SleepMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab6761610000e5ebc02d416c309a68b04dc94576"
+            },
+            {
+                "id": 143,
+                "duration": 15200,
+                "name": "Lily",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741533789224960/Alan_Walker_-_Sing_Me_To_SleepMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a"
+            },
+            {
+                "id": 124,
+                "duration": 27300,
+                "name": "Fade-NCS Release",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741536591806484/Alan_Walker_-_Fade_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab6761610000e5ebc02d416c309a68b04dc94576"
+            },
+            {
+                "id": 144,
+                "duration": 92600,
+                "name": "Darkside",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741536591806484/Alan_Walker_-_Fade_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab67616d0000b273a108e07c661f9fc54de9c43a"
+            },
+            {
+                "id": 145,
+                "duration": 73100,
+                "name": "Faded",
+                "url": "https://cdn.discordapp.com/attachments/775740994595323954/775741536591806484/Alan_Walker_-_Fade_NCS_ReleaseMP3_160K.mp3",
+                "image_url": "https://i.scdn.co/image/ab6761610000e5ebc02d416c309a68b04dc94576"
+            }
+        ]
+    }
+]
